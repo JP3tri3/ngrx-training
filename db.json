@@ -13,9 +13,21 @@
       "description": ""
     },
     {
-      "id": "3fe92243-8444-4ee4-bb39-b5460b8919f1",
-      "name": "The Hobbit",
-      "earnings": "100000000",
+      "id": "a94197a6-b191-46b5-887a-51c06fee09de",
+      "name": "test",
+      "earnings": "test",
+      "description": "test"
+    },
+    {
+      "id": "bbc030d1-8259-4546-8965-3d4ba7c2da00",
+      "name": null,
+      "earnings": null,
+      "description": null
+    },
+    {
+      "id": "d1de0660-3742-4fbf-9a9c-466b8818fcd0",
+      "name": null,
+      "earnings": null,
       "description": null
     }
   ]
